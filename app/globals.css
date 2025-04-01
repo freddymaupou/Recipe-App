@@ -33,3 +33,12 @@ h1 {
   font-size: 30px;
   font-weight: bold;
 }
+
+label {
+  width: 200px;
+}
+
+input {
+  background-color: white;
+  color: black;
+}
